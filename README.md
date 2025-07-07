@@ -60,7 +60,7 @@ I'm a Filipino data science and analytics pro with 3+ years’ experience delive
 
 ---
 
-> _"I geek out on data, design, and impact!"_
+> _"I eat data for breakfast!"_
 
 <!--
 **jhermienpaul/jhermienpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
