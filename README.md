@@ -15,9 +15,9 @@
 
 I'm a Filipino data science and analytics pro with 3+ years’ experience delivering high-impact insights across travel, retail, and ecommerce. I’ve tackled complex business problems at Fortune 500 companies, building pipelines, dashboards, and models that *actually* drive action.
 
-- **Core:** Descriptive, diagnostic, and predictive analytics | SQL | Power BI | Tableau | Python | R  
-- **Focus:** End-to-end BI (pipelines → reports & dashboards → analysis → decisions)  
-- **Passion:** Merging ML and UI/UX approaches with BI to make data *work* and *look* better  
+- **Core:** Descriptive, diagnostic, and predictive analytics
+- **Focus:** End-to-end BI (pipelines → reports & dashboards → analysis → decisions)
+- **Passion:** Merging ML and UI/UX approaches with BI to make data *work* and *look* better
 - **Advocacy:** Ethical and transparent AI usage
 
 ---
