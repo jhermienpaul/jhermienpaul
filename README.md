@@ -11,16 +11,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhermienpaul/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://app.powerbi.com/groups/me">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI"/>
-  </a>
-  <a href="https://public.tableau.com/app/profile/jhermienpaul">
-    <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Profile-LinkedIn-808080?style=plastic&color=0077B5" alt="LinkedIn"/>
   </a>
   <a href="mailto:jhermienpaulalejandria@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-Gmail-808080?style=plastic&color=D14836" alt="Email"/>
+  </a>
+  <a href="https://www.novypro.com/profile_about/jhermienpaul">
+    <img src="https://img.shields.io/badge/Dashboards-NovyPro-808080?style=plastic&color=8D5CF6" alt="NovyPro"/>
   </a>
 </p>
 
