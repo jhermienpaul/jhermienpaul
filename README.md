@@ -9,6 +9,21 @@
   <sub>Enabling smarter decisions with robust analytics, enterprise-grade BI, and production-ready data solutions</sub>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/jhermienpaul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://app.powerbi.com/groups/me">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </a>
+  <a href="https://public.tableau.com/app/profile/jhermienpaul">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=tableau&logoColor=white" alt="Tableau"/>
+  </a>
+  <a href="mailto:jhermienpaulalejandria@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -51,16 +66,7 @@ I'm a Filipino data science and analytics pro with 3+ years’ experience delive
 
 ---
 
-### 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhermienpaul/)
-[![NovyPro](https://img.shields.io/badge/NovyPro-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTUiIGN5PSIxNSIgcj0iMTUiIGZpbGw9IiMwMDAiLz4KPHBhdGggZD0iTTEzLjczIDkuNjhWMjAuMDAwM0gxMC4yMDdWOS42OEMxMC4yMDcgOC40OTU3IDExLjA4NSA3LjUwMjEgMTIuMjA2IDcuNTAyMUMxMy4zMjcgNy41MDIxIDE0LjIwNSA4LjQ5NTcgMTQuMjA1IDkuNjhWMTUuMzA2QzE0LjIwNSA1LjQ2MTMgMTQuNzgzIDcuNTAyMSAxNi4wMDcgNy41MDIxQzE3LjE5NiA3LjUwMjEgMTcuNzgyIDguNDk1NyAxNy43ODIgOS42OFYyMC4wMDAzSDE0LjI1N1YxNS4zMDZIMTMuNzNaIiBmaWxsPSIjZmZmIi8+Cjwvc3ZnPgo=)](https://www.novypro.com/profile_about/jhermienpaul)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/jhermienpaul)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhermienpaulalejandria@gmail.com)
-
----
-
-> _"I eat data for breakfast!"_
+> _I eat data for breakfast!_
 
 <!--
 **jhermienpaul/jhermienpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
